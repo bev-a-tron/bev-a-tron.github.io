@@ -17,5 +17,8 @@ I made the switch from academic research to software engineering because I think
 impact by building apps and websites that reach millions of people.  There are so many easy problems to 
 solve just because people misunderstand people who are different than them.
 
-In my spare time, I enjoy catching up with friends, figure drawing, telling stories, people watching, 
-contra dancing, traveling, going to new vegan restaurants, discussing ethics, and petting kitties.
+In my spare time, I enjoy catching up with friends, figure drawing, playing board games, telling stories,
+people watching, contra dancing, traveling, going to new vegan restaurants, discussing ethics, and 
+petting kitties.
+
+![Photo of me]({{site.url}}/assets/me.jpg)
