@@ -4,7 +4,7 @@ email: beverly@karmiclabs.com
 description: >
   Beverly is an engineer at Karmic Labs. She cares a lot about social and economic justice and animal rights. She also likes hacking on stuff, board games, vegan desserts, and kitties.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://bev-a-tron.github.io" # the base hostname & protocol for your site
 twitter_username: balau
 github_username:  bev-a-tron
 
