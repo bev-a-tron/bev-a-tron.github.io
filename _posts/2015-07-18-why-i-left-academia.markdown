@@ -56,7 +56,7 @@ And then it occurred to me that software engineering would allow me to do these 
 
 So far so good.
 
-![Signature]({{site.url}}/assets/whale_sig.jpg)
+![Signature]({{site.url}}/assets/clear_whale.png)
 
 [1] http://www.npr.org/sections/health-shots/2014/09/09/340716091/u-s-science-suffering-from-booms-and-busts-in-funding
 
@@ -67,3 +67,5 @@ So far so good.
 [4] http://www.nytimes.com/2001/08/21/science/postdoc-trail-long-and-filled-with-pitfalls.html
 
 [5] http://www.economist.com/node/17723223
+
+P.S. Thanks to Rick for making me a clear whale signature!
