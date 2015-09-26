@@ -5,10 +5,9 @@ date:   2015-09-25 12:34:56
 categories: life
 ---
 
-Starting a new company?  I encourage you to plant a tree.  Please enjoy this really old piece of writing, which I find pretty relevant still.  
+Starting a new company?  I encourage you to plant a tree.  Please enjoy this really old piece of writing, which I find pretty relevant still.  Oh, apparently I didn't listen to my own advice.
 
-"Plant a tree when you start grad school"  
-6 June 2011  
+"Plant a tree when you start grad school" (6 June 2011)
 
 If you are not starting grad school, imagine something like "get married", "have a kid", or "move somewhere new".  
 
