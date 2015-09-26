@@ -23,10 +23,10 @@ My final solution is to ask a Conservatory to take him.  The climate will be rig
 
 So, when you undertake a project years long, I highly recommend you measure that time in the growth of a tree.  But, take my advice and plant something that can 1) produce fruit and 2) live outside.  
 
-({{site.url}}/assets/tree1.jpg)  
+![Tree1]({{site.url}}/assets/tree1.jpg)  
 This is why his name is Phallus. 17 January 2007.  
 
-({{site.url}}/assets/tree2.jpg)  
+![Tree2]({{site.url}}/assets/tree2.jpg)  
 Second flowering. 5 June 2011.  
 
 ![Signature]({{site.url}}/assets/clear_whale.png)
