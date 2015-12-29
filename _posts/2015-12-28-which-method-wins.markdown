@@ -10,7 +10,7 @@ I started a new job, and I'm learning Ruby.  I spent some time noodling around w
 Then, I realized this hierarchy is written down in "The Ruby Way".  Basically, when you invoke a method, Ruby goes looking in this order:
 
 1. Singletons
-2. Methods in the class (this includes included ones)
+2. Methods in the class 
 3. Methods in ancestors (the order matters here)
 
 Hm, no singletons in my example here, but hey, I'm a busy lady.  Hope this helps somebody, even if only my future self.
