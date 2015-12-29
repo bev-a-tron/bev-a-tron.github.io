@@ -15,9 +15,9 @@ Then, I realized this hierarchy is written down in "The Ruby Way".  Basically, w
 
 Hm, no singletons in my example here, but hey, I'm a busy lady.  Hope this helps somebody, even if only my future self.
 
-Code here: https://github.com/bev-a-tron/ruby_sandbox
+Code here: [https://github.com/bev-a-tron/ruby_sandbox](https://github.com/bev-a-tron/ruby_sandbox).
 
-```
+~~~~~~~~
 module MyModule
   def method_1
     puts 'Inside the module!'
@@ -66,6 +66,6 @@ end
 x = NewNewStuff.new
 x.method_1  # Inside the new new stuff class!
 
-```
+~~~~~~~~
 
 ![Signature]({{site.url}}/assets/clear_whale.png)
