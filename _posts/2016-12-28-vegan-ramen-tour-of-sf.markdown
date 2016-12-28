@@ -9,7 +9,7 @@ San Francisco is an amazing place, where there are so many vegan ramen options, 
 
 \#1: Mensho Tokyo  
 
-Thick nutty and umami-flavored broth. The best!  
+Thick nutty and umami-flavored broth, handmade noodles. The best!  
 
 ![Mensho]({{site.url}}/assets/ramen_mensho.jpg)
 
