@@ -8,33 +8,23 @@ categories: vegan
 San Francisco is an amazing place, where there are so many vegan ramen options, you can start getting picky about them! Here is my ranking as of 2016-12-28.
 
 \#1: Mensho Tokyo  
-
 Thick nutty and umami-flavored broth, handmade noodles. The best!  
-
 ![Mensho]({{site.url}}/assets/ramen_mensho.jpg)
 
 \#2: Izakaya Goku Ramen  
-
 Delicious broth, nice noodles.  
-
 ![Goku]({{site.url}}/assets/ramen_goku.jpg)
 
 \#3: Shizen  
-
 Pretty okay, includes lots of goodies inside.  
-
 ![Shizen]({{site.url}}/assets/ramen_shizen.jpg)
 
 \#4: Ramen Yamadaya  
-
 Okay, but ramen is obviously pre-made and clumpy.  
-
 ![Yamadaya]({{site.url}}/assets/ramen_yamadaya.jpg)
 
 \#5: Ken Ken Ramen  
-
 Pretty flavorless.  
-
 ![KenKen]({{site.url}}/assets/ramen_kenken.jpg)
 
 
