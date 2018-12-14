@@ -39,7 +39,7 @@ Usually, a tourist visa to Russia is issued for 30 days stay. The maximum durati
 ### How do I apply for a tourist visa for Russia?
 Below is the general process of getting a Russian visa. As the process may change at any time, we recommend that you check with a visa support service provider or your local Russian consulate to ensure you have all the information and documents you need:
 
-### In order to apply for a tourist visa, you first need an invitation (visa support letter). There are a number of online providers who provide visa support services and issue such a visa support letter (upon payment of a fee). One of these providers is Airbnb’s trusted partner click2russia.com.
+In order to apply for a tourist visa, you first need an invitation (visa support letter). There are a number of online providers who provide visa support services and issue such a visa support letter (upon payment of a fee). One of these providers is Airbnb’s trusted partner click2russia.com.
 Once you have your visa support letter, you can fill out the Russian Visa Application Form online and print it out from the website of the Russian Ministry of Foreign Affairs.
 Once you have printed out the completed Russian Visa Application Form, you can apply for a tourist visa at a local Russian consulate or an authorized visa center in your home country by bringing along or sending in the following documents:
 - The visa support letter
