@@ -28,7 +28,25 @@ Things the Russian visa office asked me for:
 - One color photo 3.5 cm x 4.5 cm
 - Passport (with at least 6 months validity left)
 
-I followed the instructions on this website: https://www.airbnb.com/help/article/1856/russian-visa-requirements--frequently-asked-questions
+I followed the instructions on this website: https://www.airbnb.com/help/article/1856/russian-visa-requirements--frequently-asked-questions (see excerpt below, in case that page is no longer available.)
+
+### Invitation letter 
+
+I purchased this from hotels-pro.ru (go to this website to start the process: http://click2russia.com/). You enter your start and end date for the invitation letter. You can choose the dates yourself. I chose my arrival date and my departure date (because I booked my flight beforehand). Afterward, I read that some customs offices require that your visa be good until the next day. I emailed hotels-pro.ru to ask them to change my end date for the visa, and they did so. I encourage you to add a safe margin around your travel dates.
+
+### Visa application
+
+The visa application required the (1) Name, (2) Address, and (3) Birthdate of the person you are going to stay with (if not a hotel). If you're staying at an AirBNB, you will need to ask your host for this information to fill out your visa application.
+
+I had to write down my two past employers and my direct boss for each of them. Also, I had to write down everywhere I've travelled internationally in the past 10 years.
+
+They didn't ask to see my proof of health insurance.
+
+You leave your passport with them until it's ready to pick up, which will be about 2 weeks later. 
+
+---
+
+Info from https://www.airbnb.com/help/article/1856/russian-visa-requirements--frequently-asked-questions:
 
 ### When is a visa required? Are there exceptions?
 Generally, all visitors to Russia are required to have a visa, obtained from the Russian consulate, regardless the length of the visit.  Exceptions are made for citizens of some countries, having no-visa agreements with Russia. Please check with the Russian consulate in your country if you are eligible for short term entry without a visa.
