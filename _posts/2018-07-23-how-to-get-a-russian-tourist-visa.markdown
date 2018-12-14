@@ -11,8 +11,6 @@ I recently booked a flight to Moscow (it was a lot cheaper after the World Cup!)
 
 The process was a lot simpler than I thought it would be. I ended up buying everything before applying for the visa, and not everything was necessary to obtain the visa.
 
-This blog post will chronicle the whole process as well as the parts of the process that were strictly necessary to get the visa.
-
 Things I bought before applying:
 - Plane ticket
 - AirBNB
@@ -28,7 +26,7 @@ Things the Russian visa office asked me for:
 - One color photo 3.5 cm x 4.5 cm
 - Passport (with at least 6 months validity left)
 
-I followed the instructions on this website: https://www.airbnb.com/help/article/1856/russian-visa-requirements--frequently-asked-questions (see excerpt below, in case that page is no longer available.)
+I followed the instructions on this website: https://www.airbnb.com/help/article/1856/russian-visa-requirements--frequently-asked-questions (see excerpt below, in case that page is no longer available).
 
 ### Invitation letter 
 
@@ -44,7 +42,9 @@ They didn't ask to see my proof of health insurance.
 
 You leave your passport with them until it's ready to pick up, which will be about 2 weeks later. 
 
----
+![Signature]({{site.url}}/assets/clear_whale.png)  
+
+---  
 
 Info from https://www.airbnb.com/help/article/1856/russian-visa-requirements--frequently-asked-questions:
 
@@ -67,5 +67,3 @@ Once you have printed out the completed Russian Visa Application Form, you can a
 - In most cases confirmation of travel health insurance for your stay in Russia.
 
 When applying for a visa you will be required to pay a consular fee, which depends on the type of visa, the country where you apply, and your citizenship.
-
-![Signature]({{site.url}}/assets/clear_whale.png)
