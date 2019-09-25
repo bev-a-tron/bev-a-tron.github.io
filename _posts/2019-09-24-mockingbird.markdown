@@ -9,7 +9,7 @@ I read "To Kill a Mockingbird" by Harper Lee the first time in high school. I di
 
 Then, a couple of years ago, my book club read "To Kill a Mockingbird" when the sequel, "Go Set a Watchman" was released. Wow, it was such a good book!
 
-You can't step in the same river twice, not only because the water has move, but also because you yourself have changed.
+You can't step in the same river twice, not only because the water has moved, but also because you yourself have changed.
 
 When I was in high school, the only books we read were great books by great authors: Dickens, Shakespeare, Austen. None of the books stood out because I had nothing to compare them to.
 
