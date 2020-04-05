@@ -5,7 +5,7 @@ date:   2020-04-05 12:34:56
 categories: wisdom, covid-19, coronavirus, shelter-in-place, extrovert, reflection
 ---
 
-Hello, I'm Beverly. I'm an extrovert, and I'm okay.
+Hello, I'm Beverly. I'm an extrovert, and I'm fine.
 
 Since the shelter-in-place started 20 days ago, people have been worried about the extroverts. Maybe I'm not a typical extrovert, but I actually am quite okay. 
 
