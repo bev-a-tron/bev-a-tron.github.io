@@ -13,7 +13,7 @@ I see the glass half-full. Prior to the shelter-in-place, I had a long list of p
 
 My to-do list includes things like writing a book, making a personal website (beverlylau.com; don’t go there — it’s not finished yet), designing a board game, making a phone app for teaching kids about compassion, and finally planting the herbs I got for Christmas.
 
-But if the weather is nice (which, let’s face it, is always true in the East Bay), I will always prioritize going outside over working on a personal project indoors. My argument is that nice weather is fleeting. I’ll write that book or make that website when the weather is shitty (it’s never shitty).
+But if the weather is nice (which, let’s face it, is always true in the East Bay), I will always prioritize going outside over working on a personal project indoors. My argument is that nice weather is fleeting. I’ll write that book or make that website when the weather is shitty. (It’s never shitty.)
 
 But it doesn’t stop at weather. A Nobel prize-winning scientist is giving a lecture? That’s also fleeting. I mean, how often can I just take a train an hour away to go see a famous scientist speak in an intimate setting? I’ll work on my phone app afterward (which I never do, because it’s too late, and I’m tired and I just want to Netflix and sleep).
 
