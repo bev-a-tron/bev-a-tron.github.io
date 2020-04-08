@@ -31,7 +31,9 @@ So, I’m an extrovert, but I’m also a rule-following citizen. I recognize tha
 
 What’s left then? Guess I could write that book or design that board game or make that blog post about being an extrovert.
 
-Hang in there, extroverts. You’ll be fine!
+The real reason I’m probably fine is because I’m not sheltering in place alone. Having my partner by my side, 24 hours per day, 7 days per week, is plenty of face-to-face time. I might think that it’s the personal projects keeping me sane, but it’s really him. Plus Zooming with faraway friends and having chats with neighbors we run into (remembering to stay at least 6 feet away).
+
+So, I’m an extrovert (living with a partner and a cat and Zooming with friends and chatting with neighbors) and I’m fine.
 
 
 ![Signature]({{site.url}}/assets/clear_whale.png)  
