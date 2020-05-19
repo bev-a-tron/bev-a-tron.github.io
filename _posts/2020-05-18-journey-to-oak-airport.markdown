@@ -25,7 +25,7 @@ I found my way to the rental car shuttle. It was waiting on the curb, empty exce
 
 ![bus]({{site.url}}/assets/oak_bus.jpg)
 
-Except for the 13-minute wait for the BART train, the rest of my journey was absolutely as fast as it could have possibly been. I had my own private chauffeurs in my own private vehicles.
+Except for the 13-minute wait for the BART train, the rest of my journey was absolutely as fast as it could possibly have been. I had my own private chauffeurs in my own private vehicles.
 
 Essential businesses that are open during the pandemic must require that patrons use face masks according to a new local order from about a month ago. The airport rental car center was no exception. 
 
