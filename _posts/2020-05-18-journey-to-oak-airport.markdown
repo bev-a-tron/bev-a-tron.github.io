@@ -13,15 +13,7 @@ To get to the airport, I took public transportation. First, I took a BART train.
 
 ![bart]({{site.url}}/assets/oak_bart.jpg)
 
-When the train arrived at Coliseum, I accidentally tapped out of the station. The station agent and a policeman at the exit, both wearing masks, were really friendly and helpful. 
-
-When you accidentally tap out, the station agents resolve the issue by letting the rider walk through the emergency exit gate, so the Clipper transit card will work properly.
-
-I went back in through the emergency exit, and I followed their instructions to get to the airport tram.
-
-At the other end, the station agent had been called and told that I was coming, so she was all ready to let me through the emergency exit gate, all with a friendly smile.
-
-Nobody else was there. I approached the airport tram and the station agent opened the doors. I stepped on, and the tram departed.
+I walked to the airport tram. Nobody else was there. I approached the airport tram and the station agent opened the doors. I stepped on, and the tram departed.
 
 ![tram]({{site.url}}/assets/oak_tram.jpg)
 
