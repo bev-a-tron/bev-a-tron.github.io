@@ -23,23 +23,31 @@ At the other end, the station agent had been called and told that I was coming, 
 
 Nobody else was there. I approached the airport tram and the station agent opened the doors. I stepped on, and the tram departed.
 
-![bart]({{site.url}}/assets/oak_tram.jpg)
+![tram]({{site.url}}/assets/oak_tram.jpg)
 
 The airport was eerily empty. Not a single car driving in arrivals or departures. No cars parked, no people waiting for loved ones.
 
-![bart]({{site.url}}/assets/oak_airport.jpg)
+![airport]({{site.url}}/assets/oak_airport.jpg)
 
 I found my way to the rental car shuttle. It was waiting on the curb, empty except for the driver. I stepped aboard, and the driver departed immediately.
 
-![bart]({{site.url}}/assets/oak_hertz.jpg)
+![bus]({{site.url}}/assets/oak_bus.jpg)
 
 Except for the 13-minute wait for the BART train, the rest of my journey was absolutely as fast as it could possibly be. I had my own private chauffeurs in my own private vehicles.
+
+Essential businesses that are open during the pandemic must require that patrons use face masks according to a new local order from about a month ago. The airport rental car center was no exception. 
+
+![masks]({{site.url}}/assets/oak_masks.jpg)
+
+There were three other people in line when I arrived. I found it strange that Hertz was the only rental car company with a line of customers. It turns out the rental car companies have consolidated their counters. The Hertz customer representatives were serving customers from Dollar and Thrifty as well. This makes total sense, with the decrease in volume.
+
+![hertz]({{site.url}}/assets/oak_hertz.jpg)
 
 The airport was a scary place at the beginning of the pandemic, but now it's probably safer than Lake Merritt, where the head count is many times more.
 
 I returned the rental car to a different, bigger airport. The cars were packed in, ignoring the painted spaces and parked perpendicularly across them.
 
-![bart]({{site.url}}/assets/oak_cars.jpg)
+![cars]({{site.url}}/assets/oak_cars.jpg)
 
 What a wild world this has become!
 
