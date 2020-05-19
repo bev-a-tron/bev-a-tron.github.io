@@ -9,11 +9,11 @@ When COVID-19 hit, airports seemed like the worst places to visit. Plenty of peo
 
 Two days ago, I needed to pick up a rental car for essential reasons. Many of the rental car locations are closed, but the airport locations were still open.
 
-To get to the airport, I took public transportation. First, I took a BART train. The station was completely empty when I arrived and there were 13 minutes until the next train. (Trains were running every 20 minutes at 8pm on a Saturday evening.) By the time the train arrived, three other people had gathered on the platform.
+To get to the airport, I took BART (the local public transportation light rail). The station was completely empty when I arrived and there were 13 minutes until the next train. (Trains were running every 20 minutes at 8pm on a Saturday evening.) By the time the train arrived, three other people had gathered on the platform. Trains stopping through had about 10-20 people on-board, in total.
 
 ![bart]({{site.url}}/assets/oak_bart.jpg)
 
-I walked to the airport tram. Nobody else was there. I approached the airport tram and the station agent opened the doors. I stepped on, and the tram departed.
+At Coliseum station, I walked to the airport tram. Nobody else was there. As I approached the tram, the station agent opened the doors. I stepped on, and the tram departed promptly.
 
 ![tram]({{site.url}}/assets/oak_tram.jpg)
 
