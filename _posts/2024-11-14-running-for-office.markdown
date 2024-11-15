@@ -25,7 +25,7 @@ My campaign was pretty bare bones. It consisted of the following:
 1. Putting a political advertisement in the neighborhood newspaper 
 1. Designing, printing, and mailing 11,000 political mailer postcards using Every Door Direct Mail. (This involved a good amount of comparisons of different methods to find the cheapest.)
 1. Designing, printing, and putting up 6 campaign signs
-1. Filing FPPPC paperwork because my spend was over $2K
+1. Filing FPPC paperwork because my spend was over $2K
 
 I intended on going to all of the debates and events, but due to personal reasons, I needed to drop out of all of them around 1 month before the election.
 
