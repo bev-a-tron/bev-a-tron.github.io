@@ -19,7 +19,7 @@ Here are some things I learned from running for local office.
 1. Why do organizations endorse people? Is it really because Politician A is better than Politician B at environment/gun safety/abortion rights/etc.? Or is it because they have a better plan for winning, and organizations want to back the winner? In all the endorsement interviews I attended, they all asked how "election ready" I was. I suppose it would have been nice to be picked for my personality, grit, ideals, etc. and to have an organization endorse me, then help me become more "election ready". But no, that's not how they operate.
 1. Endorsements don't necessarily happen based on equal information. Not all candidates applied, not all candidates showed up for interviews. A person who makes an endorsement doesn't necessarily have to consider all options.
 1. You can't just place political signs anywhere. You need to ask permission, and there are rules about where they can and cannot go.
-1. If you raise >$1000 from a single source, you need to report it within 24 hours to the FPPPC.
+1. If you raise >$1000 from a single source, you need to report it within 24 hours to the FPPC.
 1. To you, a political mailer might be annoying or just junk mail, but to the politician who sent it, it might have been hours of work and 22 cents per piece for postage, 10 cents per piece to print.
 1. Signatures don't count unless you're registered to vote. And registered to vote in the right district/area. They check.
 1. If you have a reason to have the information, you can buy voter information for about $150 from the Registrar of Voters. They'll just give you everybody's name, address, phone, email, party affiliation, and vote history (dates, party affiliation, methods for voting) for the past forever.
