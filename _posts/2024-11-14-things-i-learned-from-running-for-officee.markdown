@@ -34,4 +34,4 @@ Here are some things I learned from running for local office.
 
 Re-visiting this list of items, I definitely feel more prepared if I ever decide to do this again!
 
-![Signature]({{site.url}}/assets/c
+![Signature]({{site.url}}/assets/clear_whale.png)
